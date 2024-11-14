@@ -1,0 +1,7 @@
+timestamp,user_id,action,status
+2024-01-01 12:00,user1,login,success
+2024-01-01 12:01,user2,file_download,success
+2024-01-01 12:02,user1,logout,success
+2024-01-01 12:05,user1,login,failure
+2024-01-01 12:10,user3,login,success
+2024-01-01 12:15,user2,login,failure
