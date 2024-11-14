@@ -41,7 +41,7 @@ source env/bin/activate   # For Windows: env\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-Set Up Sample Data
+4. **Set Up Sample Data**
 
 Ensure data/sample_logs.csv exists with the correct format, or create it as described in Data Setup
 
