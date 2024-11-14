@@ -27,7 +27,7 @@ ThreatGuard is a real-time threat detection system that leverages machine learni
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/ThreatGuard.git
+   https://github.com/eugene12345678/ThreatGuard.git
    cd ThreatGuard
 2. **Create a Virtual Environment**
 
